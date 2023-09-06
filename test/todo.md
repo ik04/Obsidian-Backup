@@ -1,0 +1,12 @@
+- internshit
+- Django prac
+- Os test 
+- ug laundry 
+- cry
+- beat jai 
+- clear mind on funni peeps
+- explore web in depth (general)
+- fix sleep
+- eat 
+- bath
+- play totk (optional)

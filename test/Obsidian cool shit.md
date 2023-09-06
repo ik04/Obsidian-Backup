@@ -1,0 +1,11 @@
+- get used to the env
+- start using the cool featured
+- start linking pages
+- learn the cool shit
+- [link](https://www.youtube.com/watch?v=WqKluXIra70&ab_channel=Dabi) refer to this
+- make this my notes thingy instead of paper
+- learn obsidian sync
+- # use graphs 
+- # use the reccomendation thingy in graphs 
+- access these files
+- 

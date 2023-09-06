@@ -1,0 +1,267 @@
+{
+  "main": {
+    "id": "a9666d1f09cd340a",
+    "type": "split",
+    "children": [
+      {
+        "id": "fe6a3b39dcdf4448",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c904014405f8a0f2",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "280b826570f4aa1e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sih Hackathon stuff.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ed4e58ce1205937a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sih Hackathon stuff.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "661d31aa58fa3fcb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b764ade3867276af",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "abf7eb7bdf3ab990",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "internshit.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "91c8e44562381ea6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "General life shit.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6bdae3e331889617",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d9d4b066ffb55a3f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "todo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "48f5d13356e18ded",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "KaizenKlass.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0beb6e0b82c97f40",
+    "type": "split",
+    "children": [
+      {
+        "id": "b8821982c237b045",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5ad71992c2097165",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c2d65f6e69ccba17",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "233eeb1a83791257",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1a94c5e80b3cb9fd",
+    "type": "split",
+    "children": [
+      {
+        "id": "0a2f5a27b09974fe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fc93ca725f8bf0c0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "821b632fbab26346",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9e336e59cccf2586",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2ba17a3a25ab56f6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Index.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "6bdae3e331889617",
+  "lastOpenFiles": [
+    "General life shit.md",
+    "Feature ideations.md",
+    "College npc shit and problems.md",
+    "Sih Hackathon stuff.md",
+    "Project ideas.md",
+    "Excalidraw/Drawing 2023-09-06 11.13.21.excalidraw.md",
+    "internshit.md",
+    "Obsidian cool shit.md",
+    "Index.md",
+    "KaizenKlass.md",
+    "todo.md",
+    "Untitled.md",
+    "Excalidraw"
+  ]
+}

@@ -1,0 +1,5 @@
+- manual assignment integ (make a portal for this which only i can access (hard code creds))
+- upload solutions in solutions section
+- get solutions form others through (make a different portal that only allows only solutions that too queue) (creep later)
+- better card ui design 
+- framer animation integ (future)

@@ -1,0 +1,7 @@
+- [[Sih Hackathon stuff]]
+- [[Obsidian cool shit]]
+- [[todo]]
+- [[College npc shit and problems]]  
+- [[Project ideas]]
+- [[Feature ideations]]
+- [[General life shit]]
