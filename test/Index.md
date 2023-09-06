@@ -5,3 +5,6 @@
 - [[Project ideas]]
 - [[Feature ideations]]
 - [[General life shit]]
+- [[Pr canvas]]
+- [[internship task docs 1]]
+- 

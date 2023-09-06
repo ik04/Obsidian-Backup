@@ -89,7 +89,29 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Index.md",
+                "file": "Pr canvas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b2cb1b7087f91164",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "t1.png"
+              }
+            }
+          },
+          {
+            "id": "a60f71029eb4533e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Internship docs/internship task docs 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +142,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -186,7 +208,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index.md",
+                "file": "Internship docs/internship task docs 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +225,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Index.md",
+                "file": "Internship docs/internship task docs 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,7 +248,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Index.md"
+                "file": "Internship docs/internship task docs 1.md"
               }
             }
           }
@@ -248,20 +270,24 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6bdae3e331889617",
+  "active": "a60f71029eb4533e",
   "lastOpenFiles": [
-    "General life shit.md",
-    "Feature ideations.md",
+    "Internship current problem.md",
+    "t1.png",
+    "Internship docs/internship task docs 1.md",
+    "internshit.md",
+    "Index.md",
     "College npc shit and problems.md",
+    "General life shit.md",
+    "Internship docs",
+    "Pr canvas.md",
+    "Feature ideations.md",
     "Sih Hackathon stuff.md",
     "Project ideas.md",
     "Excalidraw/Drawing 2023-09-06 11.13.21.excalidraw.md",
-    "internshit.md",
     "Obsidian cool shit.md",
-    "Index.md",
     "KaizenKlass.md",
     "todo.md",
-    "Untitled.md",
     "Excalidraw"
   ]
 }

@@ -1,0 +1,4 @@
+- want to keep track of old fund
+- new investors invest in new ones 
+- import csv -> name and email address 
+- 
