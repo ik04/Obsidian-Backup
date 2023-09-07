@@ -3,3 +3,5 @@
 - get solutions form others through (make a different portal that only allows only solutions that too queue) (creep later)
 - better card ui design 
 - framer animation integ (future)
+- ## group by years (after current sem, feature creep)
+- 

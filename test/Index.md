@@ -7,4 +7,4 @@
 - [[General life shit]]
 - [[Pr canvas]]
 - [[internship task docs 1]]
-- 
+- [[Class notes]]
