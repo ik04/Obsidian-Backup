@@ -1,3 +1,4 @@
+#collection
 - [[Sih Hackathon stuff]]
 - [[Obsidian cool shit]]
 - [[todo]]
@@ -8,3 +9,7 @@
 - [[Pr canvas]]
 - [[internship task docs 1]]
 - [[Class notes]]
+- [[career todo]]
+- [[Test Notes]]
+- [[Skill Hunter]]
+- [[Possible Interview Tasks]]

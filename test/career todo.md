@@ -1,0 +1,11 @@
+- [ ] get better and gain more depth through exploration [[Web Depth]]
+- [ ] make cool projects
+- [ ] intern more
+- [ ] win more hacks
+- [ ] get better cgpa
+- [ ] hunt for oppertunities 
+- [ ] get an internship at ms/gsoc (v hard)
+- [ ] remote job
+- [ ] go to japan after college
+- [ ] make a huge impact in second year by doing alot of these
+

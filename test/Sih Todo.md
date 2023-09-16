@@ -1,0 +1,9 @@
+- [x] Setup server by taking refernce 
+- [ ] finish replicating fe 
+- [ ] frame split functionality
+- [ ] find animating lib to add smoke to bg?
+- [ ] framer (op)
+- [x] trigger smooth scroll on clicking about us
+- [ ] implement the fonts
+- [ ] image slider
+- [ ] 

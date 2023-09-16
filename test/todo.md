@@ -1,9 +1,12 @@
-- internshit
-- Django prac
-- Os test 
-- ug laundry 
-- explore web in depth (general)
-- fix sleep
-- eat 
-- bath
-- play totk (optional)
+- [ ] cinavize
+- [ ] fix hard disk partition
+- [ ] backend depth (some functionality like cron jobs, deployment etc.)
+- [ ] KaizenKlass
+- [ ] Laundry
+- [ ] Bath
+- [ ] Food
+
+
+
+
+
