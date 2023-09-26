@@ -1,0 +1,20 @@
+- [ ] Testing through automation: Selenium, playwright
+- [ ] serverless
+- [ ] api gateways
+- [ ] deployment mastery
+- [ ] how the web works
+- [ ] unit testing
+- [ ] db indexing 
+- [ ] reference people working live (tscoding)
+- [ ] horizontal vs vertical scaling
+- [ ] node for projects n internship (Projects)
+- [ ] refresh tokens 
+- [ ] remember me 
+- [ ] password resets
+- [ ] app redirects from website
+- [ ] automatic link detection in chats/blogs
+- [ ] monolithic projects
+- [ ] new frameworks (Remix)
+- [ ] query optimization
+- [ ] scalable design 
+- [ ] swagger docs

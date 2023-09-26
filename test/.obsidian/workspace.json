@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "fd0b74acbded9ce3",
+        "id": "d064e53bdd018eb7",
         "type": "tabs",
         "children": [
           {
-            "id": "a365185d1e6c02b4",
+            "id": "6c83a4823b026f0a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Internship docs/Internship Task docs 3.md",
+                "file": "KaizenKlass.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Internship docs/Internship Task docs 3.md",
+                "file": "KaizenKlass.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Internship docs/Internship Task docs 3.md",
+                "file": "KaizenKlass.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Internship docs/Internship Task docs 3.md"
+                "file": "KaizenKlass.md"
               }
             }
           },
@@ -157,37 +157,37 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a365185d1e6c02b4",
+  "active": "6c83a4823b026f0a",
   "lastOpenFiles": [
+    "Index.md",
+    "Internship docs/Internship task docs 8.md",
+    "Od Ml Automation Bc.md",
     "KaizenKlass BE.md",
     "KaizenKlass.md",
-    "PR Draft.md",
-    "Pr canvas.md",
-    "Possible Interview Tasks.md",
-    "Index.md",
-    "Skill Hunter.md",
-    "todo.md",
-    "Dsc api task.md",
-    "College npc shit and problems.md",
-    "Class notes.md",
-    "Cinavize.md",
-    "career todo.md",
-    "Internship docs/t1.png",
-    "General life shit.md",
-    "Sih Todo.md",
-    "Imp Math topics.md",
-    "Internship docs/Internship Task docs 3.md",
-    "Internship docs/Internship task Docs 2.md",
-    "Internship docs/internship task docs 1.md",
-    "Screenshot_20230912_001956.png",
+    "KaizenKlass FE.md",
     "Sih Hackathon stuff.md",
-    "Untitled.md",
-    "Excalidraw/Dsc Task.md",
-    "Excalidraw",
-    "internshit.md",
-    "Internship current problem.md",
+    "Skill Hunter.md",
+    "Sih Todo.md",
     "Test Notes.md",
+    "todo.md",
+    "Internship docs/Internship Task Docs 7.md",
+    "Web Depth.md",
     "Project ideas.md",
+    "Internship docs/Internship Task Docs 6.md",
+    "Internship docs/Internship Task docs 5.md",
+    "Class notes.md",
+    "Challenge.md",
+    "Class Notes/COA.md",
+    "Internship docs/Internship Task Docs 4.md",
+    "Internship docs/Internship task Docs 2.md",
+    "Untitled 1.md",
+    "Untitled 2.md",
+    "Internship docs/Internship Task docs 3.md",
+    "Screenshot_20230912_001956.png",
+    "Self improvement.md",
+    "internshit.md",
+    "Internship docs/t1.png",
+    "Excalidraw",
     "Class Notes",
     "Internship docs"
   ]

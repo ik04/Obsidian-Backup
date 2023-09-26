@@ -14,7 +14,7 @@ this is my fir doc for the internship tasks to document the work i do here, i fe
 ## More details:
 _this is for today's task_
 
-- min  case: if lp is commited, show the sum of commited in commit header 
+- min case: if lp is commited, show the sum of commited in commit header 
 - best case: sum up all strtups except refused 
 - lp commits: count (best and worst)
 - lp rejects:  count rejected 

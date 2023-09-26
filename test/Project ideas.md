@@ -1,3 +1,4 @@
-- ## [[KaizenKlass]]
-- ## [[Cinavize]]
-- ## [[Sih Hackathon stuff]]
+- [ ]  [[KaizenKlass]]
+- [ ]  [[Cinavize]]
+- [x]  [[Sih Hackathon stuff]]
+- [ ] [[Node Practice Project]]

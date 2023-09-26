@@ -1,0 +1,11 @@
+- Diet
+- Gym/Fitness
+- hygiene
+- relations
+- Remarkable Feats
+- Depth in concepts
+- cgpa improv
+- consistent attendance
+- hackathon
+- dsa
+- internships

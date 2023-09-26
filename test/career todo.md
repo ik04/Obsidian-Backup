@@ -8,4 +8,6 @@
 - [ ] remote job
 - [ ] go to japan after college
 - [ ] make a huge impact in second year by doing alot of these
+- [ ] branch out in ssecond year 
+- [ ] do something remarkable by the end of second year
 
