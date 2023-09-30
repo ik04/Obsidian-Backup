@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d064e53bdd018eb7",
+        "id": "cdc955a405e7eca5",
         "type": "tabs",
         "children": [
           {
-            "id": "6c83a4823b026f0a",
+            "id": "3a914c432a23a0fc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KaizenKlass.md",
+                "file": "KaizenKlass BE.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KaizenKlass.md",
+                "file": "KaizenKlass BE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KaizenKlass.md",
+                "file": "KaizenKlass BE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KaizenKlass.md"
+                "file": "KaizenKlass BE.md"
               }
             }
           },
@@ -157,21 +157,25 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6c83a4823b026f0a",
+  "active": "3a914c432a23a0fc",
   "lastOpenFiles": [
-    "Index.md",
-    "Internship docs/Internship task docs 8.md",
-    "Od Ml Automation Bc.md",
-    "KaizenKlass BE.md",
     "KaizenKlass.md",
+    "KaizenKlass BE.md",
     "KaizenKlass FE.md",
-    "Sih Hackathon stuff.md",
+    "Todo Rnow.md",
+    "todo.md",
+    "Internship docs/Internship task docs 8.md",
+    "Explanation.md",
+    "Screenshot from 2023-09-29 18-01-16.png",
+    "Web Depth.md",
     "Skill Hunter.md",
+    "College npc shit and problems.md",
+    "Index.md",
+    "Od Ml Automation Bc.md",
+    "Sih Hackathon stuff.md",
     "Sih Todo.md",
     "Test Notes.md",
-    "todo.md",
     "Internship docs/Internship Task Docs 7.md",
-    "Web Depth.md",
     "Project ideas.md",
     "Internship docs/Internship Task Docs 6.md",
     "Internship docs/Internship Task docs 5.md",
@@ -181,11 +185,7 @@
     "Internship docs/Internship Task Docs 4.md",
     "Internship docs/Internship task Docs 2.md",
     "Untitled 1.md",
-    "Untitled 2.md",
-    "Internship docs/Internship Task docs 3.md",
     "Screenshot_20230912_001956.png",
-    "Self improvement.md",
-    "internshit.md",
     "Internship docs/t1.png",
     "Excalidraw",
     "Class Notes",

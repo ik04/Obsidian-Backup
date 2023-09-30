@@ -8,3 +8,9 @@
 - Gate Smashers (networking)
 - opensource contris
 - roadmap.sh
+
+## Zubin Reccomends:
+- Rust
+- TDD
+- Event driven architecture
+- Composite unique keys

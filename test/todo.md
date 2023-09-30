@@ -1,12 +1,12 @@
-- [ ] fix hard disk partition
-- [x] internship doc 7 (research)
-- [ ] bc od ml Draft page (fields)
-- [ ] internship, mapping data
-- [ ] class stuff
-- [ ] ask for os retest
-- [ ] bath
-- [ ] dsa (class)
+- [x] fix hard disk partition
 - [ ] dsa strivers course (start)
+- [ ] finish dsa experiments and get marks
+- [ ] internship work
+- [ ] chill/trip
+- [ ] rust 
+- [ ] tdd
+- [ ] improve schema fr kk 
+
 
 
 

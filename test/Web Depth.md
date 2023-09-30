@@ -17,4 +17,10 @@
 - [ ] new frameworks (Remix)
 - [ ] query optimization
 - [ ] scalable design 
-- [ ] swagger docs
+- [ ] how basic html tags link
+- [ ] how does html js and css work under the hood (just cause)
+- [ ] rust
+- [ ] tdd
+- [ ] event driven architechture
+- [ ] loadbalancing (nginx)
+- [ ] multithreading

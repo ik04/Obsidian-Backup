@@ -43,3 +43,9 @@
 ## Issue:
 - How do i handle the updation of content
 - Content cap for description
+
+## Todo: 
+- [ ] learn how to add columns to an existing db  (years table and column)
+- [ ] regex on emails
+- [ ] restrict routes
+- [ ] how to take backups

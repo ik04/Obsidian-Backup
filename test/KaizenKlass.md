@@ -28,11 +28,12 @@
 - [ ] extend landing page
 - [ ] make site responsive 
 - [ ] test test test (v important)
-- [ ] tanstack query
+- [ ] tanstack query (op)
 - [x] test out content field
 - [x] cron job to delete files once assigments are deleted
 - [ ] test update routes
 - [ ] content table to allow more than one file 
+
 
 ## Routes to make:
 - [x] get assigments by subject

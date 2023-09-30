@@ -12,6 +12,7 @@
 - quantahack
 - iee hack event 
 - Bc event
+- sih 2 day
 
 
 # Assignments
