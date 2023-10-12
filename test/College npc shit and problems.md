@@ -10,16 +10,10 @@
 ## ods : 
 - dbug 
 - quantahack
-- iee hack event 
+- ieee hack event 
 - Bc event
 - sih 2 day
-
-
-# Assignments
-- app week4
-- app week 5
-- team sizing dtm 
-- etc.
+- tezConnect 11th oct od (tph)
 
 # Cycle Tests 
 - os ct1

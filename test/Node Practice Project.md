@@ -1,0 +1,3 @@
+- dsc stuff etc 
+- recreate anyone of the projects in [[Project ideas]]
+- [Ntl Hack projects]

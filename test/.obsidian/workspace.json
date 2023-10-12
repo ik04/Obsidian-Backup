@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "cdc955a405e7eca5",
+        "id": "c5104c31d5dcce6c",
         "type": "tabs",
         "children": [
           {
-            "id": "3a914c432a23a0fc",
+            "id": "8ed05bef754f6708",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KaizenKlass BE.md",
+                "file": "Todos/12th October 2023.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KaizenKlass BE.md",
+                "file": "Todos/12th October 2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KaizenKlass BE.md",
+                "file": "Todos/12th October 2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KaizenKlass BE.md"
+                "file": "Todos/12th October 2023.md"
               }
             }
           },
@@ -157,38 +157,43 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3a914c432a23a0fc",
+  "active": "8ed05bef754f6708",
   "lastOpenFiles": [
-    "KaizenKlass.md",
-    "KaizenKlass BE.md",
-    "KaizenKlass FE.md",
-    "Todo Rnow.md",
-    "todo.md",
-    "Internship docs/Internship task docs 8.md",
-    "Explanation.md",
-    "Screenshot from 2023-09-29 18-01-16.png",
-    "Web Depth.md",
+    "math ct3.md",
+    "Todos/12th October 2023.md",
+    "Todos/Template.md",
+    "Todos/11th October 2023.md",
+    "Todos/10th October 2023.md",
+    "Interview Qs.md",
+    "qwjdbwekj.md",
     "Skill Hunter.md",
+    "KaizenKlass.md",
     "College npc shit and problems.md",
-    "Index.md",
-    "Od Ml Automation Bc.md",
-    "Sih Hackathon stuff.md",
-    "Sih Todo.md",
-    "Test Notes.md",
-    "Internship docs/Internship Task Docs 7.md",
+    "Fundinc archive/Issue Docs.md",
+    "Note to self.md",
+    "Famous Quotes.md",
+    "Possible Interview Tasks.md",
+    "Dallies (TODO rnow).md",
+    "Fucking Tired.md",
+    "Todos",
+    "Fundinc archive/Internship task docs 11.md",
+    "KaizenKlass BE.md",
+    "Pasted image 20231010152904.png",
+    "Dsc Resources.md",
+    "Web Depth.md",
+    "Fundinc archive/internship task docs 10.md",
+    "Pasted image 20231009100113.png",
+    "COA Ct-2 syllabus.md",
     "Project ideas.md",
-    "Internship docs/Internship Task Docs 6.md",
-    "Internship docs/Internship Task docs 5.md",
-    "Class notes.md",
-    "Challenge.md",
-    "Class Notes/COA.md",
-    "Internship docs/Internship Task Docs 4.md",
-    "Internship docs/Internship task Docs 2.md",
-    "Untitled 1.md",
+    "KaizenKlass App.md",
+    "KaizenKlass FE.md",
+    "COA Ct-2.md",
+    "base html",
+    "Screenshot from 2023-09-29 18-01-16.png",
     "Screenshot_20230912_001956.png",
-    "Internship docs/t1.png",
+    "Fundinc archive/t1.png",
     "Excalidraw",
     "Class Notes",
-    "Internship docs"
+    "Fundinc archive"
   ]
 }

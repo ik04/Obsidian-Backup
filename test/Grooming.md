@@ -1,0 +1,10 @@
+- bathe fr class everyday
+- dress nicely 
+- wake up early to do the above 
+- keep bed clear and straighten the bedsheet
+- get a new sheet to sleep on clean sheets
+- brush everyday
+- geta good haircut and shave
+- trim nails
+- cycle clothes every 2 days (change ugs after bath)
+- bathe way more often (once every 2-3 days plz)

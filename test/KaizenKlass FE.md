@@ -17,16 +17,27 @@ Features (FE):
 - show all assignments
 - subjects page
 - show all the pages in the side bar
+- markdown integration for code
+- handling different types of contents (future)
 
 
 ## Todo:
-- [ ] rename assignments to subjects
-- [ ] make an assignments page with all assignments
-- [ ] make a subjects page with all subjects 
-- [ ] use tanstack query (optional)
-- [ ] list out all subjects in dropdown in sidebar
-- [ ] keep section for test and old docs hidden for now
+- [x] rename assignments to subjects
+- [x] make an assignments page with all assignments
+- [x] make a subjects page with all subjects 
+- [x] keep section for test and old docs hidden for now
 - [ ] add under maintanance page
+- [ ] find a way to get pdf preview component like in email/file download divs? (later)
 
 
+## Todos (immediate):
+- [x] login page 
+- [ ] conditional rendering of buttons (in progress)
+- [ ] control panel for admins and crosscheckers
+- [ ] (Imp) when rendering cards check if the uuid matches, if it does display you instead of name
+- [x] add logout to nav
+- [ ] addition modal for add and update 
 
+## Delete functionality:
+- [x] assignment 
+- [ ] solutions

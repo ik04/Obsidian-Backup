@@ -16,6 +16,16 @@
 - add profile pic (feature creep)
 - switch to postgres or mysql
 - report (far far future)
+- flush function to get rid of data (cronjob, every week/5 days )
+- only 1 answer per assignment (constraint using composite key)
+- year sort in future
+- realtime scrapper to get data
+- profile page will have stats of answers
+
+
+## Ideas:
+- Resources section
+- OAuth integration
 
 ## Todo:
 - [x] Make Role enum
@@ -28,16 +38,20 @@
 - [ ] extend landing page
 - [ ] make site responsive 
 - [ ] test test test (v important)
-- [ ] tanstack query (op)
 - [x] test out content field
 - [x] cron job to delete files once assigments are deleted
-- [ ] test update routes
-- [ ] content table to allow more than one file 
+- [ ] content table to allow more than one file (creep)
+- [ ] map the downloads onto the fe and find a way to preview
+- [ ] make just assignments page
+- [ ] add shadcnUI
+- [ ] add ssr to prevent panel acccess for non users
+
 
 
 ## Routes to make:
 - [x] get assigments by subject
 - [x] get solutions by assignment (map user too)
+- [ ] getting solutions for an assignment (separate or togather)
 - [ ] test the routes/try out phpunit?
 
 
@@ -47,8 +61,25 @@
 ## Architecture and specifics:
 - [[KaizenKlass BE]]
 - [[KaizenKlass FE]]
+- [[KaizenKlass Hosting]]
+- [[KaizenKlass App]]
 
 ## Caution:
 - Don't expose sensitive data, store it in a env or file and gitignore it 
+- when refactoring make the fe code flexible so that changes to the backend maintain integrity
 
+
+## Armaan improvements:
+- Relations
+- service class logic
+- unset function php
+- str class instead of uuid (illuminate/support/str)::uuid
+- welcome flow (register->generate a token right away)
+- improve route naming (eg:/assignments/{uuid}/solutions/add)
+- docs for routes
+- Test Armaan changes
+- mobile first
+
+## Common issues:
+- cookie not being saved cuz site on local host not 127.0.0.1:3000 (they both gotta be on the same thing)
 

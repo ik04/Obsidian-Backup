@@ -1,13 +1,17 @@
 - [ ] get better and gain more depth through exploration [[Web Depth]]
 - [ ] make cool projects
-- [ ] intern more
+- [x] intern more
 - [ ] win more hacks
 - [ ] get better cgpa
-- [ ] hunt for oppertunities 
+- [ ] hunt for opportunities 
 - [ ] get an internship at ms/gsoc (v hard)
 - [ ] remote job
 - [ ] go to japan after college
-- [ ] make a huge impact in second year by doing alot of these
-- [ ] branch out in ssecond year 
+- [ ] make a huge impact in second year by doing alot of these (break it down)
+- [ ] branch out in second year (4th sem)
 - [ ] do something remarkable by the end of second year
+- [ ] basics (dsa, os, depth)
+- [ ] Make projects that solve an actual problem
+- [ ] OS Knowledge 
+- [ ] Don't become a corporate npc
 

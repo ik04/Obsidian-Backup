@@ -19,8 +19,13 @@
 - [ ] scalable design 
 - [ ] how basic html tags link
 - [ ] how does html js and css work under the hood (just cause)
-- [ ] rust
+- [ ] Go 
 - [ ] tdd
 - [ ] event driven architechture
 - [ ] loadbalancing (nginx)
 - [ ] multithreading
+- [ ] how Oauth works
+
+Browser:
+- Everything
+- 

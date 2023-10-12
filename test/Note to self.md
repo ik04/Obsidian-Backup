@@ -1,0 +1,2 @@
+arnav pointed it out to me, its the fact i don't know my self worth. the day i do i'll be a "monster", i also think i'll defend myself better cuz i know my worth.
+i want to know myself better, i want to be a better team mate to myself
