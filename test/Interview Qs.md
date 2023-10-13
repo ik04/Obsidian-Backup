@@ -90,10 +90,3 @@ https://jsonplaceholder.typicode.com/todos/1 (for api call)
 - how would you ensure that all requests from your user session are authenticated (withCredentials true)
 
 - how do you persist a user session in react or whatever they use
-
-
-
-
-
-
-
