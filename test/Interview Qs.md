@@ -19,19 +19,19 @@ In JavaScript, a `Promise` is an object that represents the eventual completion 
 - Explain your project 
 - Get snippets ready for questions
 - What is the Lamp stack
-## what is Micro-service architecture, give me an example of a micro-service:
+### What is Micro-service architecture, give me an example of a micro-service:
 
 Microservices architecture is an approach to developing a software system as a collection of small, independent services, each running in its own process and communicating with lightweight mechanisms, often an HTTP or message-based protocol. Each service is designed to perform a specific business function and can be developed, deployed, and scaled independently. This architectural style contrasts with the traditional monolithic architecture where the entire application is developed and deployed as a single unit.
 eg: stripe, captcha etc.
 
-## What is the Hyper Text Transfer Protocol:
+### What is the Hyper Text Transfer Protocol:
 The HyperText Transfer Protocol (HTTP) is the foundation of data communication on the World Wide Web. It is an application layer protocol that enables the transfer of hypermedia documents, such as HTML. HTTP is the protocol used for communication between a client (such as a web browser) and a server (where the requested resources are hosted).
 
 
 - What is the DOM
 - What is the CssOM
 - What is a Migration Script
-## Name a Tool You would use if you didn't have Fetch Api or Axios to make the Api Call:
+### Name a Tool You would use if you didn't have Fetch Api or Axios to make the Api Call:
 XHR
 
 
@@ -56,7 +56,8 @@ https://jsonplaceholder.typicode.com/todos/1 (for api call)
 
 - Explain to me how you would implement a Block Functionality in a FullStack website (Left join, in the most efficient way)
 
-- What is Data Normalization, how does it improve scalability
+### What is Data Normalization, how does it improve scalability:
+Data normalization is a process in database design where you organize tables and columns to reduce redundancy and dependency. It involves breaking down large tables into smaller ones and creating relationships between them. Normalization aims to minimize data duplication and dependency, which leads to a more efficient and maintainable database structure.
 
 - What is Database Indexing (optional)
 
@@ -67,8 +68,6 @@ https://jsonplaceholder.typicode.com/todos/1 (for api call)
 - show me an implementation of useContext in a react App or a Next app
 
 - what is useEffect and what is the dependency array 
-
-
 
  Ask First if they've: used the tool
 - What is useMemo, what are some drawback to using useMemo
@@ -89,4 +88,24 @@ https://jsonplaceholder.typicode.com/todos/1 (for api call)
 
 - how would you ensure that all requests from your user session are authenticated (withCredentials true)
 
+
 - how do you persist a user session in react or whatever they use
+- what are media queries
+- what's the best approach to take when designing component with tailwind
+- what is tdd
+- join queries 
+- difference between a left join and an inner join
+- how do you abstract your primary keys
+- composite key
+- what's your opinion on bun js 
+
+## Schema Design:
+- Design me a model for a user in a food ordering application, also suggest me some other tables the user could have in such an application
+- 
+
+
+
+
+
+
+

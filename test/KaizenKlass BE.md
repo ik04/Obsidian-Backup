@@ -33,7 +33,7 @@
 - only get assignments that're within the deadline/ make it so the assignments are ordered by time stamp when fetched (can add more features) (cronjob/filter)
 - edited by (optional)
 - add backup functionality to backup users and data
-- allow updation of soltions and assignments and solutions by krosscheckers and admin only (admin and kross)
+- allow updation of solutions and assignments and solutions by krosscheckers and admin only (admin and kross)
 - update own answers (all users)
 - update others answers (kross and admin)
 - delete own answers (all users)

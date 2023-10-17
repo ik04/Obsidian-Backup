@@ -41,3 +41,7 @@ Features (FE):
 ## Delete functionality:
 - [x] assignment 
 - [ ] solutions
+
+
+## Questions:
+- how do i handle all the network errors in Fe

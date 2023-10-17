@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interview Qs.md",
+                "file": "Todos/17th October.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2c9ce64897bd806b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "KaizenKlass FE.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "253cc92f5d6302b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ownly.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interview Qs.md",
+                "file": "Ownly.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Interview Qs.md",
+                "file": "Ownly.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Interview Qs.md"
+                "file": "Ownly.md"
               }
             }
           },
@@ -157,14 +182,25 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8ed05bef754f6708",
+  "active": "253cc92f5d6302b7",
   "lastOpenFiles": [
+    "KaizenKlass FE.md",
+    "Ownly.md",
+    "KaizenKlass BE.md",
+    "Docs.md",
+    "Todos/17th October.md",
+    "Todos/Template.md",
+    "Todos/16th October 2023.md",
+    "Todos/17th Octo.md",
+    "KaizenKlass Readme.md",
+    "README template.md",
+    "Interview Qs.md",
+    "contributors-shield.md",
+    "KK.png",
     "Todos/12th October 2023.md",
     "math ct3.md",
-    "Todos/Template.md",
     "Todos/11th October 2023.md",
     "Todos/10th October 2023.md",
-    "Interview Qs.md",
     "qwjdbwekj.md",
     "Skill Hunter.md",
     "KaizenKlass.md",
@@ -176,18 +212,8 @@
     "Dallies (TODO rnow).md",
     "Fucking Tired.md",
     "Todos",
-    "Fundinc archive/Internship task docs 11.md",
-    "KaizenKlass BE.md",
     "Pasted image 20231010152904.png",
-    "Dsc Resources.md",
-    "Web Depth.md",
-    "Fundinc archive/internship task docs 10.md",
     "Pasted image 20231009100113.png",
-    "COA Ct-2 syllabus.md",
-    "Project ideas.md",
-    "KaizenKlass App.md",
-    "KaizenKlass FE.md",
-    "COA Ct-2.md",
     "base html",
     "Screenshot from 2023-09-29 18-01-16.png",
     "Screenshot_20230912_001956.png",

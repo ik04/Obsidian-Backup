@@ -23,9 +23,11 @@
 - profile page will have stats of answers
 
 
+
 ## Ideas:
-- Resources section
+- Resources section (coding resources, notes, other links, etc)
 - OAuth integration
+- feedback form in about
 
 ## Todo:
 - [x] Make Role enum

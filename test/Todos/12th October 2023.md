@@ -3,7 +3,8 @@
 - [ ] submit ods to fa this friday (this is very imp)
 - [ ] get the ieee od (had os that day)
 ## College:
-- [ ] dtm 
+- [ ] dtm (reflections)
+- [ ] dtm (some model shit )
 - [ ] dsa lab stuff
 - [x] [[math ct3]]
 ## Personal Projects:
