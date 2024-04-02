@@ -1,0 +1,4 @@
+- get all images route
+- get image details dynamic page
+- make form work 
+- fetch query for objects (select type then object)

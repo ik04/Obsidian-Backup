@@ -1,0 +1,8 @@
+- [x] add live total to laundry sim 
+- [ ] finish stan project 
+- [ ] start ai ct prep 
+- [x] start blender for 3js 
+- [ ] finish cns project 
+- [x] finish cns written part
+- [ ] take a bath 
+- [x] upload os matt for rando 

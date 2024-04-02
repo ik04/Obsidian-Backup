@@ -1,0 +1,3 @@
+- blockchain
+- encrypt data in and out, use a simple encryption (in frontend)
+- rubrics

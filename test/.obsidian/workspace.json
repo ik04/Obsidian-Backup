@@ -4,40 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "c5104c31d5dcce6c",
+        "id": "5afa95eefb7b443d",
         "type": "tabs",
         "children": [
           {
-            "id": "8ed05bef754f6708",
+            "id": "60734563bf10a23f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Todos/17th October.md",
+                "file": "stan docs.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "2c9ce64897bd806b",
+            "id": "c4c5983e86904e20",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KaizenKlass FE.md",
+                "file": "ideas/Seiso.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "253cc92f5d6302b7",
+            "id": "a621ab411b46caf2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ownly.md",
+                "file": "ideas/KaizenKlass.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ownly.md",
+                "file": "ideas/KaizenKlass.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ownly.md",
+                "file": "ideas/KaizenKlass.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ownly.md"
+                "file": "ideas/KaizenKlass.md"
               }
             }
           },
@@ -160,7 +160,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -182,10 +184,27 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "253cc92f5d6302b7",
+  "active": "5ad71992c2097165",
   "lastOpenFiles": [
-    "KaizenKlass FE.md",
+    "ideas/Shugyou.md",
+    "ideas/Seiso.md",
+    "ideas/Ilisten.md",
+    "ideas",
+    "cloud.md",
+    "stan docs.md",
+    "Todos/29th night march.md",
+    "3js and better FE.md",
+    "stan.md",
+    "Picking an AI field + roadmap.md",
+    "games.md",
+    "Untitled.md",
+    "cns project.md",
+    "Excalidraw/Drawing 2024-03-27 20.33.26.excalidraw.png",
+    "Excalidraw/Drawing 2024-03-27 20.33.26.excalidraw.md",
+    "Issue.md",
+    "DBMS.md",
     "Ownly.md",
+    "KaizenKlass FE.md",
     "KaizenKlass BE.md",
     "Docs.md",
     "Todos/17th October.md",
@@ -195,22 +214,7 @@
     "KaizenKlass Readme.md",
     "README template.md",
     "Interview Qs.md",
-    "contributors-shield.md",
     "KK.png",
-    "Todos/12th October 2023.md",
-    "math ct3.md",
-    "Todos/11th October 2023.md",
-    "Todos/10th October 2023.md",
-    "qwjdbwekj.md",
-    "Skill Hunter.md",
-    "KaizenKlass.md",
-    "College npc shit and problems.md",
-    "Fundinc archive/Issue Docs.md",
-    "Note to self.md",
-    "Famous Quotes.md",
-    "Possible Interview Tasks.md",
-    "Dallies (TODO rnow).md",
-    "Fucking Tired.md",
     "Todos",
     "Pasted image 20231010152904.png",
     "Pasted image 20231009100113.png",
