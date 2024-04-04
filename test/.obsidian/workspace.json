@@ -4,47 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "5afa95eefb7b443d",
+        "id": "bb6488576863bfb2",
         "type": "tabs",
         "children": [
           {
-            "id": "60734563bf10a23f",
+            "id": "616f09898533c1fc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "stan docs.md",
+                "file": "TED/List.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "c4c5983e86904e20",
+            "id": "fd59934e8c3d5cce",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ideas/Seiso.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a621ab411b46caf2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ideas/KaizenKlass.md",
+                "file": "TED/Self Confidence.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ideas/KaizenKlass.md",
+                "file": "TED/Self Confidence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ideas/KaizenKlass.md",
+                "file": "TED/Self Confidence.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ideas/KaizenKlass.md"
+                "file": "TED/Self Confidence.md"
               }
             }
           },
@@ -184,14 +172,24 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5ad71992c2097165",
+  "active": "fd59934e8c3d5cce",
   "lastOpenFiles": [
-    "ideas/Shugyou.md",
+    "TED/List.md",
+    "TED/Self Confidence.md",
+    "TED/Eliminate self doubt.md",
+    "TED/Art of seduction (not relationships).md",
+    "TED/Humour.md",
+    "3js ideas.md",
+    "TED",
+    "Square Hackathon.md",
+    "stan docs.md",
     "ideas/Seiso.md",
+    "ideas/KaizenKlass.md",
+    "3js journe.md",
+    "ideas/Shugyou.md",
     "ideas/Ilisten.md",
     "ideas",
     "cloud.md",
-    "stan docs.md",
     "Todos/29th night march.md",
     "3js and better FE.md",
     "stan.md",
@@ -205,15 +203,6 @@
     "DBMS.md",
     "Ownly.md",
     "KaizenKlass FE.md",
-    "KaizenKlass BE.md",
-    "Docs.md",
-    "Todos/17th October.md",
-    "Todos/Template.md",
-    "Todos/16th October 2023.md",
-    "Todos/17th Octo.md",
-    "KaizenKlass Readme.md",
-    "README template.md",
-    "Interview Qs.md",
     "KK.png",
     "Todos",
     "Pasted image 20231010152904.png",

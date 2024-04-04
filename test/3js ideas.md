@@ -1,0 +1,6 @@
+- music visualiser 
+- portfolio
+- help stanley shit 
+- saving shit in 3d (interesting)
+- animations
+- put blender shit in 3js sites
