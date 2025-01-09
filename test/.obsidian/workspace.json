@@ -1,81 +1,72 @@
 {
   "main": {
-    "id": "a9666d1f09cd340a",
+    "id": "2f340e51942fb9ed",
     "type": "split",
     "children": [
       {
-        "id": "bb6488576863bfb2",
+        "id": "16dfd1a32f88f64f",
         "type": "tabs",
         "children": [
           {
-            "id": "616f09898533c1fc",
+            "id": "69a5381c3e308c95",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TED/List.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fd59934e8c3d5cce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TED/Self Confidence.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "0beb6e0b82c97f40",
+    "id": "410a6e780cff2096",
     "type": "split",
     "children": [
       {
-        "id": "b8821982c237b045",
+        "id": "52a6614524fd4723",
         "type": "tabs",
         "children": [
           {
-            "id": "5ad71992c2097165",
+            "id": "6986f7e5ec5f2a1a",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
-            "id": "c2d65f6e69ccba17",
+            "id": "f1209265040ade92",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#collection",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
-            "id": "233eeb1a83791257",
+            "id": "d6acb953820bedd4",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -85,20 +76,20 @@
     "width": 300
   },
   "right": {
-    "id": "1a94c5e80b3cb9fd",
+    "id": "d7dca35262582cb3",
     "type": "split",
     "children": [
       {
-        "id": "0a2f5a27b09974fe",
+        "id": "f1cebb087255a884",
         "type": "tabs",
         "children": [
           {
-            "id": "fc93ca725f8bf0c0",
+            "id": "5afa181bdb32fab0",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TED/Self Confidence.md",
+                "file": "tutorPro gig.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,52 +97,48 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for tutorPro gig"
             }
           },
           {
-            "id": "821b632fbab26346",
+            "id": "cca214d7d069a529",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TED/Self Confidence.md",
+                "file": "tutorPro gig.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from tutorPro gig"
             }
           },
           {
-            "id": "9e336e59cccf2586",
+            "id": "96b9b43e19c02ccb",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
-            "id": "2ba17a3a25ab56f6",
+            "id": "1546de6b272b669b",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "TED/Self Confidence.md"
-              }
-            }
-          },
-          {
-            "id": "288a7ceba998bcbe",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              }
+                "file": "tutorPro gig.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of tutorPro gig"
             }
           }
         ]
@@ -163,56 +150,46 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "fd59934e8c3d5cce",
+  "active": "69a5381c3e308c95",
   "lastOpenFiles": [
-    "TED/List.md",
-    "TED/Self Confidence.md",
-    "TED/Eliminate self doubt.md",
-    "TED/Art of seduction (not relationships).md",
-    "TED/Humour.md",
-    "3js ideas.md",
-    "TED",
-    "Square Hackathon.md",
-    "stan docs.md",
-    "ideas/Seiso.md",
-    "ideas/KaizenKlass.md",
-    "3js journe.md",
-    "ideas/Shugyou.md",
-    "ideas/Ilisten.md",
-    "ideas",
-    "cloud.md",
-    "Todos/29th night march.md",
-    "3js and better FE.md",
-    "stan.md",
-    "Picking an AI field + roadmap.md",
-    "games.md",
-    "Untitled.md",
-    "cns project.md",
-    "Excalidraw/Drawing 2024-03-27 20.33.26.excalidraw.png",
-    "Excalidraw/Drawing 2024-03-27 20.33.26.excalidraw.md",
-    "Issue.md",
-    "DBMS.md",
-    "Ownly.md",
-    "KaizenKlass FE.md",
-    "KK.png",
-    "Todos",
-    "Pasted image 20231010152904.png",
-    "Pasted image 20231009100113.png",
-    "base html",
-    "Screenshot from 2023-09-29 18-01-16.png",
-    "Screenshot_20230912_001956.png",
-    "Fundinc archive/t1.png",
-    "Excalidraw",
-    "Class Notes",
-    "Fundinc archive"
+    "todo.md",
+    "VPS.md",
+    "projects/JobHound.md",
+    "projects/KaizenKlass.md",
+    "projects/plunder.md",
+    "what do i wanna do rnow/jenkins.md",
+    "KaizenKlassv4/First Goals.md",
+    "Shadow person (my true self).md",
+    "KaizenKlassv4",
+    "Excalidraw/Drawing 2024-12-13 07.03.05.excalidraw.md",
+    "Excalidraw/Drawing 2024-12-19 11.39.57.excalidraw.md",
+    "Excalidraw/git.excalidraw.md",
+    "Excalidraw/Drawing 2024-12-16 12.38.54.excalidraw.md",
+    "Excalidraw/KaizenKlassV4.excalidraw.md",
+    "Excalidraw/Drawing 2024-12-11 12.55.17.excalidraw.md",
+    "Excalidraw/Drawing 2024-12-04 10.34.51.excalidraw.md",
+    "Excalidraw/Drawing 2024-12-03 17.00.29.excalidraw.md",
+    "Excalidraw/Drawing 2024-12-09 16.45.25.excalidraw.md",
+    "Excalidraw/Drawing 2024-09-20 05.46.28.excalidraw.md",
+    "Excalidraw/Drawing 2024-10-21 19.39.52.excalidraw.md",
+    "Excalidraw/Drawing 2024-11-22 17.50.12.excalidraw.md",
+    "Skill hunter.md",
+    "Excalidraw/Drawing 2024-11-09 23.22.18.excalidraw.md",
+    "site flaws.md",
+    "portfolio site.md",
+    "tutorPro gig.md",
+    "Excalidraw/Drawing 2024-10-23 18.01.05.excalidraw.md",
+    "what do i wanna do rnow",
+    "projects",
+    "Excalidraw"
   ]
 }

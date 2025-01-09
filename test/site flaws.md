@@ -1,0 +1,3 @@
+- add padding in the landing section 
+- partition about section 
+- fix carousel issue on smaller laptops

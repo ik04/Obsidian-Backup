@@ -1,0 +1,5 @@
+- [ ] learn golang through docs
+- [ ] setup and code plunder in ruby on rails
+- [ ] code chef streams/dsa streams
+- [ ] portfolio stream
+- [ ] learn 3js to code the portfolio

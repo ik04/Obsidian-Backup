@@ -1,0 +1,3 @@
+- [x] shift the yt-scraper to global terminal env
+- [x] freelance gig one section
+- [ ] upskill (3js)

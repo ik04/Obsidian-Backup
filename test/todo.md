@@ -1,0 +1,14 @@
+- [ ] integrate announcements, update admin panel in kaizenklass
+- [ ] start working on plunder and change the name
+- [ ] job hunting (wellfound, yc, referrals)
+- [x] quit insignia
+- [x] learn how to work a vps
+- [ ] 3js (optional)
+- [ ] c (optional)
+- [ ] golang (go-routines are cool)
+- [ ] get marks for cn shit 
+- [x] get od for monday 
+- [ ] [[album art gradient generator]]
+- [ ] [[First Goals]]
+- [ ] 
+
